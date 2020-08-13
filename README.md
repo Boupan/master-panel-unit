@@ -28,4 +28,4 @@ plus during switching ON and OFF some loads and monitor its behaviour during the
 
 2) Installation is proposed to be done by an official electrician due to local-laws and policies
 
-3)Fail-safe hardware circuitry + circuit breaker before the circuit
+3) Fail-safe hardware circuitry + circuit breaker before the circuit
