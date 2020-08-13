@@ -1,0 +1,18 @@
+----------------CAUTION-----------------------
+
+READ THIS BEFORE INSTALLATION
+
+------------LEGAL DISCLAIMER------------------
+
+When dealing with high voltages you should always 
+get the help of a certified individual to help you with.
+
+A) Close the mains 
+B) Switch on the oven and/or other current-hungry devices to draw any remaining current
+C) Make use of the multimeter in voltage sense mode before anything else!!
+D) Connect the transformer in an existing secondary line like the bathrooms one that does not
+hold any significant devices unless they opperate a dryer or a washing machine in which case
+prefer a room's line
+E) Then connect the circuit-casing and afterwards connect a second cable from the same line 
+through the relay module and into the power relay command line. Finally, connect the existing lines
+of the boiler to the power relay by replacing the existing circuit breaker or in parallel to it
