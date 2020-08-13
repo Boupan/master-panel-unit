@@ -23,8 +23,8 @@ Compatible high-voltage high-current  cables
 
 ----------------------------------------------------------------------------------------------
 
-!) We have to test the circuit near high voltage cables while we draw significant amount of power 
-plus during switching ON and OFF some loads and monitor its behaviour during the current spikes.
+1) We have to test the circuit near high voltage cables while we draw significant amount of power 
+plus during switching ON and OFF some loads and monitor its behaviour during the current spikes
 
 2) Installation is proposed to be done by an official electrician due to local-laws and policies
 
